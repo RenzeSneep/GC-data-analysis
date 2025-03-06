@@ -1,5 +1,7 @@
 # GC-data-analysis
 Script for peak integration for multiple files
+<br/>
+Especially written for the analyses of data files outputted by the MassHunter Qualitative Analysis B.08.00 software by Agilent, but can easily be changes to process any 2-D array of chromatography data.
 # Requirements
 Script was tested with python 3.12
 <br/>
