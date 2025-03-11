@@ -5,7 +5,7 @@ import os
 import pandas as pd
 
 # Variables to fill in
-# path is the path where the data folder will be located.
+# root is the path where the data folder will be located.
 root = r"C:\My Documents\data"
 
 # name is the name of the folder where the .CSV files are located.
